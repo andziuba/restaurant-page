@@ -1,3 +1,3 @@
-The Odin Project: Restaurant page
+# Restaurant page
 
 [View the site](https://andziuba.github.io/restaurant-page/)
